@@ -1,4 +1,4 @@
-## Author @ Raghuram Vadlamani ##
+## Author @ Raghuram Vadlamani and Anjali Vishnubhai Patel ##
 
 import cv2
 import socket
